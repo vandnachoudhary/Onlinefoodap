@@ -1,0 +1,170 @@
+.container-fluid{
+    padding:0;
+}
+
+.Responsive{
+    padding: 0;
+}
+
+
+
+
+
+
+
+
+.imagecontainer{
+    background-image: url('https://i.postimg.cc/76kStDSv/food-wallpaper.png');
+    background-repeat: no-repeat;
+    border-style: solid;
+    border-color: white;
+    background-size: cover;
+
+}
+body{
+    margin: auto;
+}
+#logo{
+    text-align: center;
+     font-size: 25px;
+     font-weight: bold;
+     color: red;
+     font-family: cursive;
+     line-height: 45px;
+     
+     background-color: white;
+     
+     height: 100px;
+     width: 100px;
+     margin: auto;
+     position: relative;
+     border-radius: 80%;
+     margin-top: 100px;
+    /* div.fixed {
+        position: fixed;
+        bottom: 0;
+        right: 0;
+        width: 300px;
+        border: 3px solid #73AD21;}*/
+      
+    
+}
+
+.heading{
+    text-align: center;
+    color: white;
+    font-family: cursive;
+    font-size: 20px;
+    
+}
+.locationselector
+{
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 40px;
+    border: none;
+    
+
+}
+.locationdropdown{
+    width: 250px;
+    height: 60px;
+    border-radius: 0%;
+    font-size: 20px;
+    border: none;
+    font-family: cursive;
+}
+.restaurantsinput{
+    width: 350px;
+    height: 60px;
+    border-radius: 0%;
+    font-size: 20px;
+    border: none;
+    font-family: cursive;
+
+
+}
+.quicksearchcontainer{
+    margin-left: 115px;
+    margin-top: 50px;
+}
+.quicksearchheading{
+    text-align: left;
+    color: #192f60;
+    font-size: 30px;
+    font-weight: bold;
+    font-family: cursive;
+    line-height: 1.0;
+}
+.subheading
+{
+    text-align: left;
+    line-height: 2;
+    font-family: cursive;
+    color: gray;
+    font-size: 20px;
+}
+.tilecontainer
+{
+    box-shadow: 0px 3px 6px orangered;
+    margin-right: 30px;
+    margin-bottom: 50px;
+    width: 320px;
+    height: 100px;
+    background-color:white;
+    display: inline-block;
+    padding: 0px;
+    
+
+
+    
+    
+
+
+}
+
+.componentheading{
+    text-align:left;
+    color: #192f60;
+    font-size: 18px;
+    font-weight: bold;
+    width: 50%;
+    
+            
+    
+
+
+}
+.componentsubheading{
+    text-align: left;
+    color: gray;
+    font-size: 14px;
+    font-family: cursive;
+    
+    
+    
+    
+}
+.tilecomponent1{
+    width: 50%;
+    float: left;
+    
+
+}
+.tilecomponent2{
+    width: 50%;
+    float: left;
+    font-family: cursive;
+}
+.footer{
+text-align: center;
+font-size: 20px;
+font-family: cursive;
+color: #192f60;
+}
+p{
+    color:#192f60;
+}
+span{
+    color: red;
+}
